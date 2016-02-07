@@ -1,0 +1,6 @@
+*.a
+*.so
+.cproject
+.project
+.idea
+.settings

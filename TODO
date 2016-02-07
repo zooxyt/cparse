@@ -1,0 +1,12 @@
+1. Error Handling (Filename, Location, Fail Reason)
+2. Lexical Analysis (cparse_regex)
+3. Full Cover testing
+5. Fore-Prediction
+6. Language Component
+7. Expression Component
+8. Component Plugin
+9. Token Component
+
+Done:
+4. Non greedy mode
+
