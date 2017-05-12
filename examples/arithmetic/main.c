@@ -149,6 +149,7 @@ int main(int argc, char *argv[])
             argsparse_next(&argsparse);
             if (argsparse_request(&argsparse, &expression) != 0)
             { show_help(); goto done; }
+            continue;
         }
         else if (argsparse_match_str(&argsparse, "--syntax-format"))
         {
